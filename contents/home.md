@@ -7,4 +7,4 @@ Outside of research, I enjoy kendo and teaching at a language school.
 ibaraki[at]umich.edu
 
 #### CV
-[Curriculum Vitae](https://drive.google.com/file/d/1iFvt4M7kmdC1AbgcK0QM2mERtoGU4uDp/view?usp=sharing)
+[Curriculum Vitae](https://drive.google.com/file/d/1EDXfhc26ytWqLZJ6Hc_0RwZ62zdCzq9_/view?usp=sharing)
