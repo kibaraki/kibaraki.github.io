@@ -1,14 +1,11 @@
 
 
   
-
-
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- D. A. Dickey Scholarship, Ohio State University, 2022
+- Maximus Scholarship, Ohio State University, 2022
+- D. A. Dickey Scholarship, Ohio State University, 2021
+- Maximus Scholarship, Ohio State University, 2021
+- D. A. Dickey Scholarship, Ohio State University, 2020
+- Maximus Scholarship, Ohio State University, 2020
+- Maximus Scholarship, Ohio State University, 2019
+- Maximus Scholarship, Ohio State University, 2018
