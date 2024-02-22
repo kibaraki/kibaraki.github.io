@@ -1,13 +1,8 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+My research interest lies in the intersection of machine learning and natural language processing. In particular, I am interested in research and applications of large language models, with a focus on multilingual processing, fairness/ethics, and evaluation/interpretability. I am also interested in animal linguistics.
 
 #### Email
-sli[at]cumt.edu.cn
+ibaraki[at]umich.edu
 
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-#### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### CV
+[Curriculum Vitae](https://drive.google.com/file/d/1iFvt4M7kmdC1AbgcK0QM2mERtoGU4uDp/view?usp=sharing)
