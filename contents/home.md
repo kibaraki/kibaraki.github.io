@@ -1,5 +1,5 @@
 #### About
-My research interest lies in the intersection of machine learning and natural language processing. In particular, I am interested in multilingual NLP, knowledge/reasoning, fairness/ethics, and evaluation/interpretability. 
+My research interest lies in the intersection of machine learning and natural language processing. In particular, I am interested in multilingual NLP, knowledge/reasoning, fairness/ethics, and explainability/interpretability.
 
 Outside of research, I enjoy kendo and teaching at a language school.
 
