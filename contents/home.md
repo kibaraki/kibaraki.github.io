@@ -1,10 +1,10 @@
 #### About
-My research interest lies in the intersection of machine learning and natural language processing. In particular, I am interested in multilingual NLP, speech, fairness/ethics, and explainability/interpretability.
+My research interest lies in the intersection of machine learning and natural language processing. In particular, I am interested in multilingual NLP, speech, multimodal NLP, and language learning/acquisition.
 
 Outside of research, I enjoy kendo and teaching at a language school.
 
 #### Email
-ibaraki[at]umich.edu
+kibaraki[at]nd.edu
 
 #### Links
 - [Curriculum Vitae](https://drive.google.com/file/d/1jHZc9NwFJOeEU8MkXLfEWhWjKSEU1Wwg/view?usp=sharing)
