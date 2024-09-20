@@ -7,6 +7,6 @@ Outside of research, I enjoy kendo and teaching at a language school.
 kibaraki[at]nd.edu
 
 #### Links
-- [Curriculum Vitae](https://drive.google.com/file/d/1EDXfhc26ytWqLZJ6Hc_0RwZ62zdCzq9_/view?usp=drive_link)
+- [Curriculum Vitae](https://drive.google.com/file/d/1jHZc9NwFJOeEU8MkXLfEWhWjKSEU1Wwg/view?usp=sharing)
 - [GitHub](https://github.com/kibaraki)
 - [LinkedIn](https://www.linkedin.com/in/katsumi-ibaraki-a96716177/)
