@@ -10,4 +10,4 @@ kibaraki[at]nd.edu
 - [Curriculum Vitae](https://drive.google.com/file/d/1jHZc9NwFJOeEU8MkXLfEWhWjKSEU1Wwg/view?usp=sharing)
 - [GitHub](https://github.com/kibaraki)
 - [LinkedIn](https://www.linkedin.com/in/katsumi-ibaraki-a96716177/)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=liHZA18AAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=liHZA18AAAAJ) 
