@@ -9,3 +9,4 @@ location: "Ann Arbor, Michigan"
 ---
 
 
+Graduate Student Instructor
