@@ -8,4 +8,4 @@ date: 2025-01-01
 location: "South Bend, Indiana"
 ---
 
-[Course website](https://www3.nd.edu/~dchiang/teaching/theory/2025/)
+Teaching Assistant; [Course website](https://www3.nd.edu/~dchiang/teaching/theory/2025/)
