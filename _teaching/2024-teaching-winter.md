@@ -8,3 +8,4 @@ date: 2024-01-01
 location: "Ann Arbor, Michigan"
 ---
 
+Graduate Student Instructor
