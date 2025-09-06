@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Updated CV [here](https://kibaraki.github.io/files/Academic_CV%20(9).pdf).
-
 <object data="https://kibaraki.github.io/files/Academic_CV%20(9).pdf" width="1000" height="1000" type='application/pdf'></object>
