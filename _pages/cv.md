@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-<object data="https://kibaraki.github.io/files/Academic_CV%20(9).pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://kibaraki.github.io/files/Academic_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
