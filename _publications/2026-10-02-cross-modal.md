@@ -12,7 +12,7 @@ citation: 'Sumin Hong*, <b>Katsumi Ibaraki</b>*, Renee Shi, David Chiang, and To
 
 
 
-[[Paper]](http://arxiv.org/abs/2509.15373) 
+[[Paper]](https://arxiv.org/abs/2609.36475) 
 
 ```
 @misc{hong2026similarchoicesdifferentattention,
